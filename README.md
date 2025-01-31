@@ -15,12 +15,7 @@ pandas: For data manipulation and analysis.
 numpy: For numerical computations.
 matplotlib: For static visualizations.
 seaborn: For advanced and aesthetically pleasing data visualizations.
-Libraries Used The project utilizes the following Python libraries:
 
-pandas: For data manipulation and analysis.
-numpy: For numerical computations.
-matplotlib: For static visualizations.
-seaborn: For advanced and aesthetically pleasing data visualizations.
 ### File Structure  
 - **ZomatoDataAnalysis.ipynb**: Main notebook with data preprocessing, analysis, and visualizations.  
 
